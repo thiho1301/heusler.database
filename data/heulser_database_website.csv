@@ -1,4 +1,4 @@
-Chemical Formula X2YZ,X,Y,Z,Structure Type,Total Energy Difference (eV),Formation Energy (eV),Lattice Constant (Ang),Anomalous Hall Conductivity (S/cm),Curie Temperature (K),Fermi Level (eV),Polarization,Magnetic Moments of X1 (muB),Magnetic Moments of X2 (muB),Magnetic Moments of Y (muB),Magnetic Moments of Z (?B),Total Magnetic Moments (muB),Number of Valence Electrons €
+Chemical Formula X2YZ,X,Y,Z,Structure Type,Total Energy Difference (eV),Formation Energy (eV),Lattice Constant (Ang),Anomalous Hall Conductivity (S/cm),Curie Temperature (K),Fermi Level (eV),Polarization,Magnetic Moments of X1 (muB),Magnetic Moments of X2 (muB),Magnetic Moments of Y (muB),Magnetic Moments of Z (muB),Total Magnetic Moments (muB),Number of Valence Electrons
 Co2AgAl,Co,Ag,Al,xa,-0.0684,0.0830995,5.96059621,65.3881,487.502,9.4107,0.742295,1.568,1.336,-0.007,-0.015,2.882,22
 Co2AgAs,Co,Ag,As,l21,0.902688,0.28379525,5.985909219,953.4852,175.502,9.3931,0.745442,1.072,1.072,0.012,-0.003,2.153,24
 Co2AgB,Co,Ag,B,xa,-0.013303,0.744424,5.649928846,86.8704,583.502,9.4798,0.29008,1.549,1.279,-0.007,-0.012,2.809,22
